@@ -1,5 +1,5 @@
 {
-  "name": "~TODO~",
+  "name": "portfolio",
   "version": "0.0.1",
   "scripts": {
     "dev": "svelte-kit dev",
@@ -8,6 +8,7 @@
   },
   "devDependencies": {
     "@sveltejs/kit": "next",
+    "mdsvex": "^0.9.7",
     "svelte": "^3.34.0"
   },
   "type": "module"
