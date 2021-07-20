@@ -13,14 +13,21 @@
 </script>
 
 <script>
+  import A from "$lib/components/tags/a.svelte";
+  import H1 from "$lib/components/tags/h1.svelte";
+  import Li from "$lib/components/tags/li.svelte";
   export let posts = [];
 </script>
 
-<h1>POSTS</h1>
-{#each posts as post}
-  <div>
-    <a href={`/posts/${post.slug}`}>
-      {post.title}
-    </a>
-  </div>
-{/each}
+<div class="flex flex-col mt-8">
+  <H1>Posts</H1>
+  <ul>
+    {#each posts as post}
+      <Li>
+        <A href={`/posts/${post.slug}`}>
+          {post.title}
+        </A>
+      </Li>
+    {/each}
+  </ul>
+</div>

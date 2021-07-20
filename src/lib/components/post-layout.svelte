@@ -15,12 +15,13 @@
 </script>
 
 <script>
+  import Footer from "./footer.svelte";
+
   export let title;
   export let date;
-  export let slug;
 </script>
 
-<div class="max-w-4xl mx-auto my-8">
+<div class="my-8">
   <svelte:component this={H1}>
     {title}
   </svelte:component>
@@ -31,4 +32,5 @@
   <div class="p-12 my-8">
     <slot />
   </div>
+  <Footer />
 </div>
