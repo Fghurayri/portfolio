@@ -29,7 +29,7 @@
     {new Date(date).toDateString()} by
     <strong class="text-bold">Faisal Alghurayri</strong>
   </svelte:component>
-  <div class="p-12 my-8">
+  <div class="p-6 md:p-12 my-8">
     <slot />
   </div>
   <Footer />
