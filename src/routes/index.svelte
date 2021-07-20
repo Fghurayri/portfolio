@@ -2,7 +2,6 @@
   import CloudinaryImg from "$lib/components/cloudinary-img.svelte";
   import Footer from "$lib/components/footer.svelte";
   import H1 from "$lib/components/tags/h1.svelte";
-  import P from "$lib/components/tags/p.svelte";
 </script>
 
 <div class="min-h-screen flex flex-col items-center justify-center">
