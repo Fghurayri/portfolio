@@ -12,7 +12,7 @@ slug: "build-desktop-apps-with-tauri"
   import { assets } from '$app/paths';
 </script>
 
-![JWT Decoder App]({assets}/images/{slug}/jwt-decoder-app.jpg)
+![JWT Decoder App](https://res.cloudinary.com/fghurayri/image/upload/v1626803142/faisal.sh/build-desktop-apps-with-tauri/jwt-decoder-app_qhzf06.jpg)
 
 Tauri is a toolkit built in Rust to help developers build desktop apps using any web frontend framework. I rebuilt an Electron app in Tauri to check the app's size/memory differences.
 

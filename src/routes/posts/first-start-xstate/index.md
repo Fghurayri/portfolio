@@ -13,7 +13,7 @@ slug: "first-start-xstate"
   let slug = "first-start-xstate"
 </script>
 
-![XState Vizualizer]({assets}/images/{slug}/viz.jpg)
+![XState Vizualizer](https://res.cloudinary.com/fghurayri/image/upload/v1626805369/faisal.sh/first-start-xstate/viz_xvrvul.jpg)
 
 Last week, I've completed both **xstate _courses_ at Frontend Master.** I _applied_ my learning by creating a `state machine` for a magic link login flow in my Sveltekit app.
 
