@@ -12,6 +12,5 @@
     extraClass="w-24 mb-8"
   />
   <H1>Hello friend! 👋</H1>
-  <P>I am Faisal Alghurayri, a software developer from Saudi Arabia 🇸🇦.</P>
   <Footer />
 </div>
