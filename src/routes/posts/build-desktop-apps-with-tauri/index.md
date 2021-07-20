@@ -10,7 +10,6 @@ slug: "build-desktop-apps-with-tauri"
 
 <script>
   import { assets } from '$app/paths';
-  let slug = "build-desktop-apps-with-tauri"
 </script>
 
 ![JWT Decoder App]({assets}/images/{slug}/jwt-decoder-app.jpg)
