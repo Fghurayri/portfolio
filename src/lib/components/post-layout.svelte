@@ -4,7 +4,6 @@
 </script>
 
 <script>
-  import "../code.css";
   export let title;
   export let date;
 </script>

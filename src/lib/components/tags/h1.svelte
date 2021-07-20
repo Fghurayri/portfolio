@@ -1,7 +1,1 @@
-<h1><slot /></h1>
-
-<style>
-  h1 {
-    color: red;
-  }
-</style>
+<h1 class="text-3xl"><slot /></h1>
