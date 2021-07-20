@@ -1,19 +1,11 @@
 <script context="module">
   export const prerender = true;
-
-  function getBaseURL(page) {
-    const { host, path } = page;
-    const protocol = host.startsWith("localhost") ? "http" : "https";
-    return `${protocol}://${host}${path}`;
-  }
-
-  export async function load({ fetch, page }) {
-    const baseURL = getBaseURL(page);
-    const response = await fetch(`${baseURL}/get-posts`);
+  export async function load({ fetch }) {
+    const response = await fetch(`/posts/get-posts`);
     if (response.ok) {
       const { posts } = await response.json();
       return {
-        props: { posts, baseURL },
+        props: { posts },
       };
     }
     return {};
@@ -22,13 +14,12 @@
 
 <script>
   export let posts = [];
-  export let baseURL;
 </script>
 
 <h1>POSTS</h1>
 {#each posts as post}
   <div>
-    <a href={`${baseURL}/${post.slug}`}>
+    <a href={`/posts/${post.slug}`}>
       {post.title}
     </a>
   </div>

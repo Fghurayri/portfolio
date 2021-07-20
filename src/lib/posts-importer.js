@@ -28,7 +28,7 @@ export const getPostsRawBody = () => {
 export const getPosts = async (postsContent) => {
   const posts = [];
 
-  for await (post of postsContent) {
+  for await (const post of postsContent) {
     const { postRawBody, slug } = post;
     const parsedPost = await compile(postRawBody);
     posts.push({ slug, ...parsedPost.data.fm });
