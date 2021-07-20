@@ -5,7 +5,7 @@
 
 <footer class="text-center">
   <P>
-    <A href="/posts">Blog</A> &bullet; <A
+    <A href="/posts">Posts</A> &bullet; <A
       href="https://github.com/fghurayri"
       target="_blank"
       rel="noopener noreferrer">Github</A
