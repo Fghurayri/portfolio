@@ -15,7 +15,7 @@ slug: "first-start-xstate"
 
 ![XState Vizualizer]({assets}/images/{slug}/viz.jpg)
 
-Last week, I've completed both xstate courses at Frontend Master. I applied my learning by creating a state machine for a magic link login flow in my Sveltekit app.
+Last week, I've completed both **xstate _courses_ at Frontend Master.** I _applied_ my learning by creating a `state machine` for a magic link login flow in my Sveltekit app.
 
 Pretty awesome!
 
