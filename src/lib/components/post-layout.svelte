@@ -1,6 +1,17 @@
 <script context="module">
-  import { H1, P, Code, Li, A, Img } from "./tags/index";
-  export { H1 as h1, P as p, Code as code, Li as li, A as a, Img as img };
+  import { H1, P, Code, Li, A, Img, Table, TBody, Td, Th } from "./tags/index";
+  export {
+    H1 as h1,
+    P as p,
+    Code as code,
+    Li as li,
+    A as a,
+    Img as img,
+    Table as table,
+    TBody as tbody,
+    Td as td,
+    Th as th,
+  };
 </script>
 
 <script>

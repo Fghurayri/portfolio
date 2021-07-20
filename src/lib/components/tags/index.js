@@ -4,3 +4,7 @@ export { default as P } from "./p.svelte";
 export { default as Li } from "./li.svelte";
 export { default as A } from "./a.svelte";
 export { default as Img } from "./img.svelte";
+export { default as Table } from "./table.svelte";
+export { default as TBody } from "./tbody.svelte";
+export { default as Td } from "./td.svelte";
+export { default as Th } from "./th.svelte";
