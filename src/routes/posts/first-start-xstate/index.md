@@ -19,8 +19,7 @@ Last week, I've completed both **xstate _courses_ at Frontend Master.** I _appli
 
 Pretty awesome!
 
-The visualizer:
-https://xstate.js.org/viz/?gist=f3ddb13ea3b8f8b0335097588a623e47
+[The visualizer](https://xstate.js.org/viz/?gist=f3ddb13ea3b8f8b0335097588a623e47)
 
 The code:
 

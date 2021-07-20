@@ -3,7 +3,7 @@
   import P from "./tags/p.svelte";
 </script>
 
-<footer class="text-center">
+<footer class="flex justify-center items-center">
   <P>
     <A href="/posts">Posts</A> &bullet; <A
       href="https://github.com/fghurayri"
