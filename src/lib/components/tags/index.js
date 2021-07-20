@@ -3,3 +3,4 @@ export { default as Code } from "./code.svelte";
 export { default as P } from "./p.svelte";
 export { default as Li } from "./li.svelte";
 export { default as A } from "./a.svelte";
+export { default as Img } from "./img.svelte";
