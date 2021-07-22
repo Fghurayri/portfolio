@@ -1,8 +1,4 @@
 #!/bin/sh
 . "$(dirname "$0")/_/husky.sh"
 
-<<<<<<< HEAD
 npm run gen:seo-artifacts && git add ./static
-=======
-npm run gen:seo-artifacts
->>>>>>> 123cfdf118f1834ad0582115342add98b483bf40
