@@ -33,6 +33,9 @@ function createSitemap(posts) {
       .join("")}  
   </urlset>
   `;
-  fs.writeFileSync(path.join("_app", "sitemap.xml"), sitemap);
+  fs.writeFileSync(
+    path.join("../.vercel_build_output/static", "sitemap.xml"),
+    sitemap
+  );
   console.log("sitemap generated successfully");
 }
