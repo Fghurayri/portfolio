@@ -1,7 +1,8 @@
 ---
-title: "How to deploy Sveltekit on Heroku"
+title: "How to Deploy Sveltekit on Heroku"
 date: "2021-07-22"
 slug: "deploy-sveltekit-on-heroku"
+metaDesc: "How to deploy Sveltekit on Heroku using the Node adapter."
 ---
 
 <script context="module">

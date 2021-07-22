@@ -20,8 +20,15 @@
 
   export let title;
   export let date;
+  export let metaDesc;
+  export let slug;
 </script>
 
+<svelte:head>
+  <title>{title}</title>
+  <meta name="description" content={`${metaDesc}`} />
+  <link href={`https://faisal.sh/posts/${slug}`} rel="canonical" />
+</svelte:head>
 <div class="px-1 mt-8 md:mt-16">
   <svelte:component this={H1}>
     {title}

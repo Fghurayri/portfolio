@@ -2,6 +2,7 @@
 title: "Build Lean Desktop Apps with Tauri"
 date: "2021-07-19"
 slug: "build-desktop-apps-with-tauri"
+metaDesc: "Tauri vs Electron for building desktop apps."
 ---
 
 <script context="module">

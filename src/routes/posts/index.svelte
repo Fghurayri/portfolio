@@ -19,6 +19,15 @@
   export let posts = [];
 </script>
 
+<svelte:head>
+  <title>Posts</title>
+  <meta
+    name="description"
+    content="Technical posts on JavaScript, React, Svelte, Elixir, and other wonderful tools, written by Faisal Alghurayri"
+  />
+  <link href="https://faisal.sh/posts" rel="canonical" />
+</svelte:head>
+
 <div class="flex flex-col mt-8">
   <H1>Posts</H1>
   <ul>
