@@ -4,7 +4,11 @@ date: "2021-07-22"
 slug: "deploy-sveltekit-on-heroku"
 ---
 
-[Sveltekit](https://kit.svelte.dev/) is a framework for building Svelte apps. It has an unopinionated approach for production deployment through _adapters_ for different deployment targets/platforms. I found it pretty intuitive to deploy to Heroku by using the [Node adapter](https://github.com/sveltejs/kit/tree/master/packages/adapter-node)
+<script context="module">
+  export const prerender = true;
+</script>
+
+[Sveltekit](https://kit.svelte.dev/) is a framework for building Svelte apps. It has an unopinionated approach for production deployment through **_adapters_** for different deployment targets/platforms. I found it pretty intuitive to deploy to Heroku by using the [Node adapter](https://github.com/sveltejs/kit/tree/master/packages/adapter-node)
 
 To deploy a Sveltekit app to Heroku, you need to do the following:
 
