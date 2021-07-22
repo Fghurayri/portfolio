@@ -3,6 +3,7 @@ import path from "path";
 import { getPosts, getPostsRawBody } from "../src/lib/posts-importer.js";
 
 async function main() {
+  console.log("running sitemap generation");
   const postsContent = await getPostsRawBody();
   const posts = await getPosts(postsContent);
   createSitemap(posts);
@@ -35,4 +36,5 @@ function createSitemap(posts) {
   const __dirname = path.resolve();
   const location = path.join(__dirname, "static");
   fs.writeFileSync(path.join(location, "sitemap.xml"), sitemap);
+  console.log("sitemap generated successfully at", location);
 }
