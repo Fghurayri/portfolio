@@ -7,5 +7,5 @@
 
 <div>
   <CloudinaryImg {src} {alt} />
-  <p class="text-center text-xs py-2">{alt}</p>
+  <p class="text-center text-xs py-4">{alt}</p>
 </div>

@@ -1,7 +1,7 @@
 <script>
   export let src;
   export let alt;
-  export let extraClass = "";
+  export let extraClasses = "";
   function transform() {
     const preset = "f_auto,q_auto:good";
     const splitted = src.split("/");
@@ -11,4 +11,4 @@
   }
 </script>
 
-<img src={transform()} {alt} class={`${extraClass} rounded-xl`} />
+<img src={transform()} {alt} class={`rounded-xl shadow-2xl ${extraClasses}`} />
