@@ -1,8 +1,8 @@
 {
-  "routes": [
+  "redirects": [
     {
-      "src": "/sitemap.xml",
-      "dest": "/.vercel_build_output/static/sitemap.xml"
+      "source": "/sitemap.xml",
+      "destination": "/.vercel_build_output/static/sitemap.xml"
     }
   ]
 }
