@@ -7,7 +7,7 @@
   <description>Portfolio web app for Faisal Alghurayri to share his experience and sample work.</description>
   <item>
   <guid>https://faisal.sh/posts/deploy-sveltekit-on-heroku</guid>
-  <title>How to Deploy Sveltekit on Heroku</title>
+  <title>How to Deploy Svelteki on Heroku</title>
   <link>https://faisal.sh/posts/deploy-sveltekit-on-heroku</link>
   <description>How to deploy Sveltekit on Heroku using the Node adapter.</description>
   <pubDate>Thu, 22 Jul 2021 00:00:00 GMT</pubDate>
