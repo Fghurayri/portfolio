@@ -5,7 +5,9 @@
     "dev": "svelte-kit dev",
     "build": "svelte-kit build",
     "preview": "svelte-kit preview",
-    "postbuild": "svelte-sitemap -o .vercel_build_output/static -d https://faisal.sh"
+    "postinstall": "npm run gen:seo",
+    "gen:seo": "npm run gen:site-map",
+    "gen:site-map": "node ./scripts/generate-sitemap.js"
   },
   "devDependencies": {
     "@sveltejs/adapter-vercel": "next",
@@ -17,7 +19,6 @@
     "postcss-load-config": "^3.1.0",
     "svelte": "^3.38.3",
     "svelte-preprocess": "^4.7.3",
-    "svelte-sitemap": "^1.2.1",
     "tailwindcss": "^2.2.4"
   },
   "type": "module"
