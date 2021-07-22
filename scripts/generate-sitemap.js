@@ -33,8 +33,6 @@ function createSitemap(posts) {
       .join("")}  
   </urlset>
   `;
-  const __dirname = path.resolve();
-  const location = path.join(__dirname, "static");
-  fs.writeFileSync(path.join(location, "sitemap.xml"), sitemap);
-  console.log("sitemap generated successfully at", location);
+  fs.writeFileSync(path.join("_app", "sitemap.xml"), sitemap);
+  console.log("sitemap generated successfully");
 }
