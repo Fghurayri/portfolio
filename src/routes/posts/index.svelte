@@ -15,6 +15,7 @@
 <script>
   import A from "$lib/components/tags/a.svelte";
   import H1 from "$lib/components/tags/h1.svelte";
+  import { formatDate } from "$lib/date-format";
   export let posts = [];
 </script>
 
@@ -24,7 +25,7 @@
     {#each posts as post}
       <div class="mb-4">
         <p class="p-2 text-gray-500">
-          [{post.date}]
+          [{formatDate(post.date)}]
           <A href={`/posts/${post.slug}`}>
             {post.title}
           </A>

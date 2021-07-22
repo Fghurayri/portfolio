@@ -15,6 +15,7 @@
 </script>
 
 <script>
+  import { formatDate } from "$lib/date-format";
   import Footer from "./footer.svelte";
 
   export let title;
@@ -26,7 +27,7 @@
     {title}
   </svelte:component>
   <p class="md:text-xl text-gray-500">
-    {new Date(date).toDateString()} by
+    {formatDate(date)} by
     <strong class="text-bold">Faisal Alghurayri</strong>
   </p>
   <div class="mb-4">
