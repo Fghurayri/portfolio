@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+  <atom:link href="https://faisal.sh/rss" rel="self" type="application/rss+xml" />
+  <title>Faiasl Alghurayri</title>
+  <link>https://faisal.sh</link>
+  <description>Portfolio web app for Faisal Alghurayri to share his experience and sample work.</description>
+  <item>
+  <guid>https://faisal.sh/posts/deploy-sveltekit-on-heroku</guid>
+  <title>How to Deploy Sveltekit on Heroku</title>
+  <link>https://faisal.sh/posts/deploy-sveltekit-on-heroku</link>
+  <description>How to deploy Sveltekit on Heroku using the Node adapter.</description>
+  <pubDate>Thu, 22 Jul 2021 00:00:00 GMT</pubDate>
+  </item><item>
+  <guid>https://faisal.sh/posts/build-desktop-apps-with-tauri</guid>
+  <title>Build Lean Desktop Apps with Tauri</title>
+  <link>https://faisal.sh/posts/build-desktop-apps-with-tauri</link>
+  <description>Tauri vs Electron for building desktop apps.</description>
+  <pubDate>Mon, 19 Jul 2021 00:00:00 GMT</pubDate>
+  </item>
+  </channel>
+  </rss>
