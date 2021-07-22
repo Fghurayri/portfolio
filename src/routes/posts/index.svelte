@@ -23,11 +23,9 @@
   <H1>Posts</H1>
   <ul>
     {#each posts as post}
-      <Li>
-        <A href={`/posts/${post.slug}`}>
-          {post.title}
-        </A>
-      </Li>
+      <A href={`/posts/${post.slug}`}>
+        {post.title}
+      </A>
     {/each}
   </ul>
 </div>
