@@ -22,12 +22,32 @@
   export let date;
   export let metaDesc;
   export let slug;
+  export let cover;
 </script>
 
 <svelte:head>
   <title>{title}</title>
   <meta name="description" content={`${metaDesc}`} />
   <link href={`https://faisal.sh/posts/${slug}`} rel="canonical" />
+
+  <meta property="og:title" content={title} /><meta
+    property="og:type"
+    content="article"
+  /><meta property="og:image" content={cover} /><meta
+    property="og:url"
+    content={`https://faisal.sh/posts/${slug}`}
+  />
+  <meta property="og:site_name" content="Faisal Alghurayri" /><meta
+    property="og:locale"
+    content="en_us"
+  /><!-- Twitter Card data -->
+  <meta name="twitter:card" content={metaDesc} /><meta
+    name="twitter:site"
+    content="@Moz"
+  /><meta name="twitter:title" content={title} /><meta
+    name="twitter:description"
+    content={metaDesc}
+  /><meta name="twitter:image" content={cover} />
 </svelte:head>
 <div class="px-1 mt-8 md:mt-16">
   <svelte:component this={H1}>

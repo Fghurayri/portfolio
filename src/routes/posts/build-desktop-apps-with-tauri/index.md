@@ -3,13 +3,14 @@ title: "Build Lean Desktop Apps with Tauri"
 date: "2021-07-19"
 slug: "build-desktop-apps-with-tauri"
 metaDesc: "Tauri vs Electron for building desktop apps."
+cover: "https://res.cloudinary.com/fghurayri/image/upload/v1626943421/faisal.sh/build-desktop-apps-with-tauri/cover.webp"
 ---
 
 <script context="module">
   export const prerender = true;
 </script>
 
-![JWT Decoder App](https://res.cloudinary.com/fghurayri/image/upload/v1626803142/faisal.sh/build-desktop-apps-with-tauri/jwt-decoder-app_qhzf06.jpg)
+![Kazbegi, Georgia](https://res.cloudinary.com/fghurayri/image/upload/v1626943421/faisal.sh/build-desktop-apps-with-tauri/cover.webp)
 
 Tauri is a toolkit built in Rust to help developers build desktop apps using any web frontend framework. It is currently in Beta. I rebuilt an Electron app in Tauri to check the app's size/memory differences.
 
