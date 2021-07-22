@@ -21,15 +21,15 @@
   export let date;
 </script>
 
-<div class="my-8">
+<div class="px-1 mt-8 md:mt-16">
   <svelte:component this={H1}>
     {title}
   </svelte:component>
-  <svelte:component this={P}>
+  <p class="md:text-xl text-gray-500">
     {new Date(date).toDateString()} by
     <strong class="text-bold">Faisal Alghurayri</strong>
-  </svelte:component>
-  <div class="p-6 md:p-12 my-8">
+  </p>
+  <div class="mb-4">
     <slot />
   </div>
   <Footer />

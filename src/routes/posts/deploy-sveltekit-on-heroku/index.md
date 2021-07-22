@@ -8,11 +8,11 @@ slug: "deploy-sveltekit-on-heroku"
   export const prerender = true;
 </script>
 
-[Sveltekit](https://kit.svelte.dev/) is a framework for building Svelte apps. It has an unopinionated approach for production deployment through **_adapters_** for different deployment targets/platforms. I found it pretty intuitive to deploy to Heroku by using the [Node adapter](https://github.com/sveltejs/kit/tree/master/packages/adapter-node)
+[Sveltekit](https://kit.svelte.dev/) is a framework for building Svelte apps. It has an unopinionated approach for production deployment through **_adapters_** for different deployment targets/platforms. I found it pretty intuitive to deploy to Heroku by using the [Node adapter](https://github.com/sveltejs/kit/tree/master/packages/adapter-node).
 
 To deploy a Sveltekit app to Heroku, you need to do the following:
 
-First, install the adapter as a dev dependency
+First, install the adapter as a dev dependency:
 
 ```sh
 npm i -D @sveltejs/adapter-node@next
@@ -33,7 +33,7 @@ Next, to help Heroku in running the app after it builds it, add a `start` comman
   },
 ```
 
-Finally, in the `svelte.config.js` file, use the node adapter and configure the port to read from Heroku's env.
+Finally, in the `svelte.config.js` file, use the node adapter and configure the port to read from Heroku's environment port: (delete the `|` from the `process|.env.port`)
 
 ```diff
 + import node from "@sveltejs/adapter-node";
@@ -48,7 +48,7 @@ Finally, in the `svelte.config.js` file, use the node adapter and configure the 
     kit: {
       // hydrate the <div id="svelte"> element in src/app.html
       target: "#svelte",
-+     adapter: node({ env: { port: process.env.PORT } }),
++     adapter: node({ env: { port: process|.env.PORT } }),
     },
   };
 

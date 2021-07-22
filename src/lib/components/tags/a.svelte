@@ -8,6 +8,6 @@
   {href}
   {rel}
   {target}
-  class="text-blue-600 p-2 hover:underline md:text-lg focus:ring focus:ring-blue-600 outline-none rounded-xl"
+  class="text-blue-600 hover:underline md:text-xl focus:ring focus:ring-blue-600 outline-none"
   ><slot /></a
 >
