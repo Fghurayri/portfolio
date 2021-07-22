@@ -1,0 +1,8 @@
+{
+  "routes": [
+    {
+      "src": "/sitemap.xml",
+      "dest": "/.vercel_build_output/static/sitemap.xml"
+    }
+  ]
+}
