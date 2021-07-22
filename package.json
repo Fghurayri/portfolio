@@ -5,7 +5,7 @@
     "dev": "svelte-kit dev",
     "build": "svelte-kit build",
     "preview": "svelte-kit preview",
-    "postbuild": "svelte-sitemap -o .vercel_build_output -d https://faisal.sh"
+    "postbuild": "svelte-sitemap -o .vercel_build_output/static -d https://faisal.sh"
   },
   "devDependencies": {
     "@sveltejs/adapter-vercel": "next",
