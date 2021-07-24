@@ -38,6 +38,9 @@
           <A href={`/posts/${post.slug}`}>
             {post.title}
           </A>
+          <span class="text-xs text-gray-400">
+            ~ {post.readingTime}m reading</span
+          >
         </p>
       </div>
     {/each}

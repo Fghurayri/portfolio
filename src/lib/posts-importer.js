@@ -1,6 +1,7 @@
 import fs from "fs";
 import path from "path";
 import { compile } from "mdsvex";
+import { estimateReadingTime } from "./read-time-estimator";
 
 export const getPostsRawBody = () => {
   const __dirname = path.resolve();
@@ -30,8 +31,9 @@ export const getPosts = async (postsContent) => {
 
   for await (const post of postsContent) {
     const { postRawBody, slug } = post;
+    const readingTime = estimateReadingTime(postRawBody);
     const parsedPost = await compile(postRawBody);
-    posts.push({ slug, ...parsedPost.data.fm });
+    posts.push({ slug, readingTime, ...parsedPost.data.fm });
   }
 
   return posts.sort((a, b) => Date.parse(b.date) - Date.parse(a.date));
