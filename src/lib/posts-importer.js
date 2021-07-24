@@ -1,7 +1,7 @@
 import fs from "fs";
 import path from "path";
 import { compile } from "mdsvex";
-import { estimateReadingTime } from "./read-time-estimator";
+import { estimateReadingTime } from "./read-time-estimator.js";
 
 export const getPostsRawBody = () => {
   const __dirname = path.resolve();

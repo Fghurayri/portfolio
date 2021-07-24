@@ -16,7 +16,7 @@
   <CloudinaryImg
     src="https://res.cloudinary.com/fghurayri/image/upload/v1626802989/faisal.sh/sonic.jpg"
     alt="sonic"
-    extraClasses="w-24 mb-8 shadow-none"
+    extraClasses="w-24 mb-8 !shadow-none"
   />
   <H1>Hello friend! 👋</H1>
   <Footer />
