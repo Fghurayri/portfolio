@@ -14,7 +14,7 @@ cover: "https://res.cloudinary.com/fghurayri/image/upload/v1627237027/faisal.sh/
 
 ## Communication is not trivial
 
-In their book "A Practical Guide to Testing in DevOps." Katrina Clokie discusses what is needed to adopt a healthy testing culture in multi-disciplinary, highly-skilled, interconnected product teams. The first logical step is establishing a shared context for the whole team to understand what testing _really_ means. I find her approach to achieve this feat to be brilliant.
+In their book "A Practical Guide to Testing in DevOps." Katrina Clokie discusses what is needed to adopt a healthy testing culture in multi-disciplinary, highly-skilled, interconnected product teams. The first logical step is establishing a shared context for the whole team to understand what testing _really_ means. I find their approach to achieve this feat to be brilliant.
 
 They suggest conducting a one-hour workshop for the whole team - product managers, designers, developers, operations, support, and testers to gauge the current comprehension around the **implemented** but not necessarily _documented_ testing strategy by visualizing it.
 
