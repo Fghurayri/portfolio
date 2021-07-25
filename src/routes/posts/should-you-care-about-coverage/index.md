@@ -12,8 +12,6 @@ cover: "https://res.cloudinary.com/fghurayri/image/upload/v1627237027/faisal.sh/
 
 ![The same, only different](https://res.cloudinary.com/fghurayri/image/upload/v1627237027/faisal.sh/should-you-care-about-coverage/reflection.jpg)
 
-> To my friend, mentor, and expert tester; [Joost Rooijmans](https://www.linkedin.com/in/rooymans?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAAGH1QBKSBZXXLN1qjJnAdn8X_s5690960&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3BRF90AKZDSGKvr1uvgNNEbQ%3D%3D) - Thank you.
-
 ## Communication is not trivial
 
 In their book "A Practical Guide to Testing in DevOps." Katrina Clokie discusses what is needed to adopt a healthy testing culture in multi-disciplinary, highly-skilled, interconnected product teams. The first logical step is establishing a shared context for the whole team to understand what testing _really_ means. I find her approach to achieve this feat to be brilliant.
@@ -22,8 +20,8 @@ They suggest conducting a one-hour workshop for the whole team - product manager
 
 To start, the session leader draws a timeline from **idea** to **production**. Then, they ask the team to name every _testing_ activity and _who_ should perform it by filling up the three differently-colored sticky notes according to the following rules:
 
-- Purple - This type of testing is in our test strategy. We are doing it
-- Pink - This type of testing is in our test strategy. **But** we are not doing it
+- Purple - This type of testing is in our test strategy and we are doing it
+- Pink - This type of testing is in our test strategy **but we are not doing it**
 - Yellow - This type of testing **is not in our test strategy** but should be
 
 ![Workshop to uncover the different ideas behind testing](https://res.cloudinary.com/fghurayri/image/upload/v1627241366/faisal.sh/should-you-care-about-coverage/workshop.png)
@@ -39,11 +37,11 @@ I once had conducted this mini-workshop by doing multiple small talks with my co
 
 ## But Should We Care About Coverage
 
-I share this fascinating story to make you think about what does _coverage_ means.
+I share this fascinating story to spur your thinking about what does _coverage_ means.
 
 Search for the word coverage in the testing dictionary. For example, you can find code coverage, test coverage, path coverage, branch coverage, statement coverage, decision coverage, condition coverage, and _name your criteria_ coverage.
 
-In my opinion, all these types of coverage are the same but different. We try to increase our confidence about what we know by slicing, dicing, and mashing different kinds of knowledge into a set of criteria. In general, I think there are two types of coverage:
+In my opinion, all these types of coverage are the same but different. As engineers, we try to increase our confidence about what we know by slicing, dicing, and mashing different kinds of metrics. In general, I think there are two types of coverage:
 
 - Can be measured with tools
 - Can not be measured with tools
@@ -72,4 +70,4 @@ So should you care about coverage? I don't know. Every team should decide the wh
 
 Code coverage is beneficial to detect unreachable code and to add confidence about handling what we know. On the other hand, test coverage should widen the surface of things we should know, but you can never truly measure it.
 
-In conclusion, I think this should always be a rhetorical question. However, to make sound decisions, I encourage you to learn more about the [principles of software testing](https://www.guru99.com/software-testing-seven-principles.html).
+In conclusion, I think the question of coverage should always be a rhetorical one. However, to make sound decisions, I encourage you to learn more about the [principles of software testing](https://www.guru99.com/software-testing-seven-principles.html).
