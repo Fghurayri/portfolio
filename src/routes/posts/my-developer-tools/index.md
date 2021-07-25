@@ -57,14 +57,14 @@ So, in 2018, I pulled the trigger on a refurbished 2018 Macbook Pro with 32GB. I
 
 In the past, I have used many monitor sizes/configurations.
 
-| Monitors Count | Physical Monitors | Laptop Monitors | Horizontal | Vertical | **Rating** |
-| -------------- | ----------------- | --------------- | ---------- | -------- | ---------- |
-| 3              | 3 (21")           | 0               | 3          | 0        | 7/10       |
-| 3              | 3 (21")           | 0               | 2          | 1        | 8/10       |
-| 3              | 2 (24")           | 1 (14")         | 2          | 1        | 6/10       |
-| 2              | 2 (24")           | 0               | 2          | 0        | 9/10       |
-| 2              | 1 (34" curved)    | 1 (14")         | 2          | 0        | 6/10       |
-| 1              | 1 (34" curved)    | 0               | 1          | 0        | 7/10       |
+| Monitors | Physical       | Laptop  | Horizontal | Vertical | **Rating** |
+| -------- | -------------- | ------- | ---------- | -------- | ---------- |
+| 3        | 3 (21")        | 0       | 3          | 0        | **7/10**   |
+| 3        | 3 (21")        | 0       | 2          | 1        | **8/10**   |
+| 3        | 2 (24")        | 1 (14") | 2          | 1        | **6/10**   |
+| 2        | 2 (24")        | 0       | 2          | 0        | **9/10**   |
+| 2        | 1 (34" curved) | 1 (16") | 2          | 0        | **6/10**   |
+| 1        | 1 (34" curved) | 0       | 1          | 0        | **7/10**   |
 
 Reflecting on my above experience, I found that the sweet spot for me is not using my laptop monitor but use two full external monitors on VESA spring-loaded arm mount to customize the rotation. So I researched the best monitor size, and I found the LG 24UD58-B 24-Inch 4K IPS to be the finest option from dimensions and resolution perspective.
 

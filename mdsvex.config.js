@@ -1,3 +1,5 @@
+import slug from "remark-slug";
+
 const config = {
   extensions: [".svelte.md", ".md", ".svx"],
 
@@ -9,7 +11,7 @@ const config = {
     posts: "./src/lib/components/post-layout.svelte",
   },
 
-  remarkPlugins: [],
+  remarkPlugins: [slug],
   rehypePlugins: [],
 };
 
