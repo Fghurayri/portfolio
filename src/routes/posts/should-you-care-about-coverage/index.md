@@ -21,8 +21,8 @@ They suggest conducting a one-hour workshop for the whole team - product manager
 To start, the session leader draws a timeline from **idea** to **production**. Then, they ask the team to name every _testing_ activity and _who_ should perform it by filling up the three differently-colored sticky notes according to the following rules:
 
 - Purple - This type of testing is in our test strategy and we are doing it
-- Pink - This type of testing is in our test strategy **but we are not doing it**
-- Yellow - This type of testing **is not in our test strategy** but should be
+- Yellow - This type of testing is in our test strategy **but we are not doing it**
+- Pink - This type of testing **is not in our test strategy** but should be
 
 ![Workshop to uncover the different ideas behind testing](https://res.cloudinary.com/fghurayri/image/upload/v1627241366/faisal.sh/should-you-care-about-coverage/workshop.png)
 

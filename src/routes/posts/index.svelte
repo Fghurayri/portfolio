@@ -34,11 +34,11 @@
     {#each posts as post}
       <div class="mb-4">
         <p class="p-2 text-gray-500">
-          [{formatDate(post.date)}]
+          [{formatDate(post.date)}] -
           <A href={`/posts/${post.slug}`}>
             {post.title}
           </A>
-          <span class="text-xs text-gray-400">
+          <span class="text-sm text-gray-400">
             ~ {post.readingTime}m reading</span
           >
         </p>
