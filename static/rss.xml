@@ -6,6 +6,12 @@
   <link>https://faisal.sh</link>
   <description>Portfolio web app for Faisal Alghurayri to share his experience and sample work.</description>
   <item>
+  <guid>https://faisal.sh/posts/should-you-care-about-coverage</guid>
+  <title>Should You Care About Coverage</title>
+  <link>https://faisal.sh/posts/should-you-care-about-coverage</link>
+  <description>The difference between test coverage VS code coverage and should you care.</description>
+  <pubDate>Mon, 26 Jul 2021 00:00:00 GMT</pubDate>
+  </item><item>
   <guid>https://faisal.sh/posts/my-developer-tools</guid>
   <title>My Developer Tools (uses)</title>
   <link>https://faisal.sh/posts/my-developer-tools</link>
