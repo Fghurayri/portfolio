@@ -43,7 +43,7 @@ I share this fascinating story to make you think about what does _coverage_ mean
 
 Search for the word coverage in the testing dictionary. For example, you can find code coverage, test coverage, path coverage, branch coverage, statement coverage, decision coverage, condition coverage, and _name your criteria_ coverage.
 
-In my opinion, all these types of coverage are the same but different. Moreover, I think there are two types of coverage:
+In my opinion, all these types of coverage are the same but different. We try to increase our confidence about what we know by slicing, dicing, and mashing different kinds of knowledge into a set of criteria. In general, I think there are two types of coverage:
 
 - Can be measured with tools
 - Can not be measured with tools
