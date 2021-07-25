@@ -76,6 +76,8 @@
   </p>
   <div class="mb-4">
     <slot />
+    <P>Take it easy,</P>
+    <P>~Faisal</P>
   </div>
   <Footer />
 </div>
