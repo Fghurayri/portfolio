@@ -34,7 +34,6 @@
 <script>
   import { formatDate } from "$lib/date-format";
   import Footer from "./footer.svelte";
-  import CloudinaryImg from "./cloudinary-img.svelte";
 
   export let title;
   export let date;
