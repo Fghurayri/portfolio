@@ -1,5 +1,5 @@
 <p
-  class="md:text-xl text-gray-500 text-justify my-10 leading-loose md:leading-9"
+  class="md:text-xl text-gray-500 text-justify my-10 leading-loose md:leading-9 tracking-wide"
 >
   <slot />
 </p>

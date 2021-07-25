@@ -1,5 +1,3 @@
-<h1
-  class="text-3xl md:text-5xl font-bold mb-8 leading-none tracking-tighter text-gray-600"
->
+<h1 class="text-3xl md:text-5xl font-bold my-8 text-gray-500">
   <slot />
 </h1>

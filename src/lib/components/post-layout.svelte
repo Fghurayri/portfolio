@@ -1,7 +1,23 @@
 <script context="module">
-  import { H1, P, Code, Li, A, Img, Table, TBody, Td, Th } from "./tags/index";
+  import {
+    H1,
+    H2,
+    H3,
+    P,
+    Code,
+    Li,
+    A,
+    Img,
+    Table,
+    TBody,
+    Td,
+    Th,
+    Blockquote,
+  } from "./tags/index";
   export {
     H1 as h1,
+    H2 as h2,
+    H3 as h3,
     P as p,
     Code as code,
     Li as li,
@@ -11,12 +27,14 @@
     TBody as tbody,
     Td as td,
     Th as th,
+    Blockquote as blockquote,
   };
 </script>
 
 <script>
   import { formatDate } from "$lib/date-format";
   import Footer from "./footer.svelte";
+  import CloudinaryImg from "./cloudinary-img.svelte";
 
   export let title;
   export let date;

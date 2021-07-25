@@ -1,4 +1,6 @@
 export { default as H1 } from "./h1.svelte";
+export { default as H2 } from "./h2.svelte";
+export { default as H3 } from "./h3.svelte";
 export { default as Code } from "./code.svelte";
 export { default as P } from "./p.svelte";
 export { default as Li } from "./li.svelte";
@@ -8,3 +10,4 @@ export { default as Table } from "./table.svelte";
 export { default as TBody } from "./tbody.svelte";
 export { default as Td } from "./td.svelte";
 export { default as Th } from "./th.svelte";
+export { default as Blockquote } from "./blockquote.svelte";
