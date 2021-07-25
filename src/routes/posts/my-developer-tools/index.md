@@ -41,7 +41,7 @@ I daily use the following tools for web and mobile development.
 
 # Context
 
-After ~ 7 years into my tech career, I decided to take a sabbatical from my full-time job. At the same time, my wife received a scholarship to pursue her P.hD. at Charlotte, NC, USA. So we decided to move from our home in Riyadh, Saudi Arabia, together.
+After ~ 7 years into my tech career, I decided to take a sabbatical from my full-time job. At the same time, my wife received a scholarship to pursue her P.hD. at Charlotte, NC, USA. So we decided to move from our home in Riyadh, Saudi Arabia.
 
 The relocation allowed me to start from scratch in building my home office. Instead of opting to get the latest and greatest stuff, I went with more pragmatic budget-conscious options. I only kept my headphones and machine. I got everything else after relocating from Amazon.
 
