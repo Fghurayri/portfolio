@@ -33,7 +33,7 @@ Then, the whole team can reflect on how people will have their other ideas about
 - Are there activities in the documented test strategy that are not implemented? Why?
 - What activities are missing from the strategy? Do we want to include these?
 
-I once had conducted this mini-workshop by doing multiple small talks with my colleagues. I was amused by how every person has their ideas around testing.
+I conducted this mini-workshop by doing multiple small talks with my colleagues. I was amused by how every person has their ideas around testing.
 
 ## But Should We Care About Coverage
 
