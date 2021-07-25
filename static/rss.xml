@@ -6,6 +6,12 @@
   <link>https://faisal.sh</link>
   <description>Portfolio web app for Faisal Alghurayri to share his experience and sample work.</description>
   <item>
+  <guid>https://faisal.sh/posts/my-developer-tools</guid>
+  <title>My Developer Tools (uses)</title>
+  <link>https://faisal.sh/posts/my-developer-tools</link>
+  <description>I share the tools I use for my daily work as a developer.</description>
+  <pubDate>Sat, 24 Jul 2021 00:00:00 GMT</pubDate>
+  </item><item>
   <guid>https://faisal.sh/posts/deploy-sveltekit-on-heroku</guid>
   <title>How to Deploy Sveltekit on Heroku</title>
   <link>https://faisal.sh/posts/deploy-sveltekit-on-heroku</link>
