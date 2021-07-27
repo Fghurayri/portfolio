@@ -34,11 +34,15 @@ So, other than the increased complexity around tooling, deployment, debugging, a
 
 Let's take an eCommerce web app as an example. We can safely generalize the above layout for the `/products` URL in an online store. There are static areas on the page, which contain the header and the list of signature products, and other dynamic parts like the list of latest products.
 
+## SPA Version
+
 ![Timeline for how SPA works](https://res.cloudinary.com/fghurayri/image/upload/v1627336001/faisal.sh/ssr-streaming-is-the-future/spa.png)
 
 SPAs are great for rich and interactive user experiences but not that good for SEO. For example, when the user or the SEO crawler navigates to this page, they will receive a bundle that contains everything but nothing.
 
 To be more precise, the bundle will have the JavaScript needed to build the page. The browser will render the static areas directly, but the dynamic parts will trigger the fetch request to get the latest products. The user's browser will execute all of this JavaScript, but the SEO crawler would not - no SEO for you!
+
+## SSR Version
 
 ![Timeline for how SSR works](https://res.cloudinary.com/fghurayri/image/upload/v1627336478/faisal.sh/ssr-streaming-is-the-future/ssr.png)
 
@@ -46,11 +50,13 @@ On the other hand, SSR is better for SEO. Following the previous example, both t
 
 If you squint your eyes at the above picture, you can see that the server is being honest by waiting for the DB to return the list of products before sending the whole thing to the client. However, the `/products` page contains other static information that is useful and actionable by the user, like the header and the list of signature products. These areas need to wait until the DB returns the data so the server can bake everything together and send it to the client.
 
-The magnitude of the problem exponentially increases when you add other dynamic areas to the page. You have to fetch everything before you can show anything.
+The magnitude of the problem exponentially increases when you add other dynamic areas to the page. **You have to fetch everything before you can show anything.**
 
 What if we can ask the server to send those static/known parts of the page, and using the same established TCP connection, we somehow get the list of the products from the DB once they become available. In other words, how about _we render as we fetch_?
 
-# SSR Streaming
+## SSR Streaming Version
+
+![Timeline for how SSR streaming works](https://res.cloudinary.com/fghurayri/image/upload/v1627355028/faisal.sh/ssr-streaming-is-the-future/ssrs.png)
 
 Here comes one of the most highly anticipated features of React 18 - SSR streaming. Following the above example, the server will render all static areas of the page and send it to the client _really immediatly_ and **stream** the dynamic data.
 
