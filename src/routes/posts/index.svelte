@@ -13,6 +13,7 @@
 </script>
 
 <script>
+  import Footer from "$lib/components/footer.svelte";
   import A from "$lib/components/tags/a.svelte";
   import H1 from "$lib/components/tags/h1.svelte";
   import { formatDate } from "$lib/date-format";
@@ -29,6 +30,7 @@
 </svelte:head>
 
 <div class="flex flex-col mt-8">
+  <Footer />
   <H1>Posts</H1>
   <ul>
     {#each posts as post}

@@ -13,6 +13,10 @@
       href="https://twitter.com/fghurayri"
       target="_blank"
       rel="noopener noreferrer">Twitter</A
+    > &bullet; <A
+      href="https://faisal.sh/rss.xml"
+      target="_blank"
+      rel="noopener noreferrer">RSS</A
     >
   </P>
 </footer>
