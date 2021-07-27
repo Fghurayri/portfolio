@@ -26,3 +26,4 @@ Links:
 - [Tauri docs](https://t.co/9QjLSYNn6E?amp=1)
 - [The Electron app repo](https://github.com/Fghurayri/jwt-decoder)
 - [The Tauri app repo](https://github.com/Fghurayri/tauri-jwt-decoder)
+- [A great and well-paced overview of Tauri by building an app utilizes Rust through the bridge](https://css-tricks.com/how-i-built-a-cross-platform-desktop-application-with-svelte-redis-and-rust/)
