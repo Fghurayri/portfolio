@@ -6,6 +6,12 @@
   <link>https://faisal.sh</link>
   <description>Portfolio web app for Faisal Alghurayri to share his experience and sample work.</description>
   <item>
+  <guid>https://faisal.sh/posts/ssr-streaming-is-the-future</guid>
+  <title>SSR Streaming is The Future Web Experience</title>
+  <link>https://faisal.sh/posts/ssr-streaming-is-the-future</link>
+  <description>I explain SSR Streaming and discuss why I think it is the future web experience.</description>
+  <pubDate>Wed, 28 Jul 2021 00:00:00 GMT</pubDate>
+  </item><item>
   <guid>https://faisal.sh/posts/should-you-care-about-coverage</guid>
   <title>Should You Care About Coverage</title>
   <link>https://faisal.sh/posts/should-you-care-about-coverage</link>
