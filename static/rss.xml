@@ -6,6 +6,12 @@
   <link>https://faisal.sh</link>
   <description>Portfolio web app for Faisal Alghurayri to share his experience and sample work.</description>
   <item>
+  <guid>https://faisal.sh/posts/how-to-add-i18n-solution</guid>
+  <title>How to Add Internationalization (i18n) Solution</title>
+  <link>https://faisal.sh/posts/how-to-add-i18n-solution</link>
+  <description>Discuss what is needed to build a comprehensive internationalization (i18n) solution.</description>
+  <pubDate>Fri, 30 Jul 2021 00:00:00 GMT</pubDate>
+  </item><item>
   <guid>https://faisal.sh/posts/ssr-streaming-is-the-future</guid>
   <title>SSR Streaming is The Future Web Experience</title>
   <link>https://faisal.sh/posts/ssr-streaming-is-the-future</link>
