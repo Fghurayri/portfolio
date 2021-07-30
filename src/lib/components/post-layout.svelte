@@ -60,7 +60,7 @@
   /><!-- Twitter Card data -->
   <meta name="twitter:card" content="summary_large_image" /><meta
     name="twitter:site"
-    content="@Moz"
+    content="@fghurayri"
   /><meta name="twitter:title" content={title} /><meta
     name="twitter:description"
     content={metaDesc}
