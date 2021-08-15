@@ -16,7 +16,7 @@ Building an app with geospatial capabilities is always fun!
 
 I aim to share everything I know about developing geospatial apps by introducing the theory and the practice by building a small app.
 
-> The associated code repo is [here](). In addition, the live example app is [here](https://next-door.lab.faisal.sh).
+> The associated code repo is [here](https://github.com/Fghurayri/next-door). In addition, the live example app is [here](https://next-door.lab.faisal.sh).
 
 # The Theory
 
@@ -634,6 +634,6 @@ If we wired up everything correctly, you should see this rendered on the index p
 
 Hooray!! 🥳
 
-Beyond this point (consuming APIs and showing a form) is idiomatic React. If you want to check the full version, which has Tailwind for CSS and XState for state management, here is [the repo](#) for the final code.
+Beyond this point (consuming APIs and showing a form) is idiomatic React. If you want to check the full version, which has Tailwind for CSS and XState for state management, here is [the repo](https://github.com/Fghurayri/next-door) for the final code.
 
 I hope you found this guide helpful.
