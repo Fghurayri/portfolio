@@ -12,7 +12,7 @@ cover: "https://res.cloudinary.com/fghurayri/image/upload/v1627162062/faisal.sh/
 
 ![Carpenter Tools](https://res.cloudinary.com/fghurayri/image/upload/v1627162062/faisal.sh/my-developer-tools/cover.jpg)
 
-> "Give me six hours to chop down a tree, and I will spend the first four sharpening the ax." - Abraham Lincoln.
+> _"Give me six hours to chop down a tree, and I will spend the first four sharpening the ax." - Abraham Lincoln._
 
 # The TLDR
 

@@ -20,7 +20,7 @@ The highlights for me:
 
 ### The year of sabbaticals
 
-> "76% of professional developers are employed at least part-time. Last year over 92% of professional developers were employed at least part-time. No significant increase in the percent of developers looking for work. "
+> _"76% of professional developers are employed at least part-time. Last year over 92% of professional developers were employed at least part-time. No significant increase in the percent of developers looking for work."_
 
 Hey mom, I'm on TV!
 
@@ -28,7 +28,7 @@ In other news, the percentage of freelancers has increased too.
 
 ### I think that React has reached a local maximum
 
-> "This year, React surpassed jQuery as the most commonly used web framework."
+> _"This year, React surpassed jQuery as the most commonly used web framework."_
 
 Usually, when a tech reaches its maximum adoption, people start to realize the local maximum and start trying to change the status quo.
 

@@ -1,9 +1,11 @@
 export { default as H1 } from "./h1.svelte";
 export { default as H2 } from "./h2.svelte";
 export { default as H3 } from "./h3.svelte";
+export { default as H4 } from "./h4.svelte";
 export { default as Code } from "./code.svelte";
 export { default as P } from "./p.svelte";
 export { default as Li } from "./li.svelte";
+export { default as Ul } from "./ul.svelte";
 export { default as A } from "./a.svelte";
 export { default as Img } from "./img.svelte";
 export { default as Table } from "./table.svelte";
