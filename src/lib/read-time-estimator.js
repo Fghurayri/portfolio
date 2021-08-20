@@ -1,4 +1,4 @@
-const WORDS_PER_MINUTE = 180;
+const WORDS_PER_MINUTE = 300;
 const WORDS_TO_FILTER = ["\n", "export", "const", "prerender", "=", "script"];
 
 const filterFn = (text) =>
