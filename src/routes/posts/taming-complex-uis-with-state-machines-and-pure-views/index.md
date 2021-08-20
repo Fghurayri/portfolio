@@ -3,7 +3,7 @@ title: "Taming Complex UIs with State Machines and Pure Views"
 date: "2021-08-20"
 slug: "taming-complex-uis-with-state-machines-and-pure-views"
 metaDesc: "I introduce state machines and their benefits by showing how to manage a complex interactive map UI."
-cover: "https://res.cloudinary.com/fghurayri/image/upload/v1629335292/faisal.sh/taming-ui-complexity-with-state-machines/puppet.jpg"
+cover: "https://res.cloudinary.com/fghurayri/image/upload/v1629473853/faisal.sh/taming-ui-complexity-with-state-machines/jabal-alfil.jpg"
 ---
 
 <script context="module">
