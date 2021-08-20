@@ -634,6 +634,6 @@ If we wired up everything correctly, you should see this rendered on the index p
 
 Hooray!! 🥳
 
-Beyond this point (consuming APIs and showing a form) is idiomatic React. If you want to check the full version, which has Tailwind for CSS and XState for state management, here is [the repo](https://github.com/Fghurayri/next-door) for the final code.
+Beyond this point (consuming APIs and showing a form) is idiomatic React. If you want to check the full version, which has Tailwind for CSS and XState for state management, here is [the repo](https://github.com/Fghurayri/next-door) for the final code. If you are interested to know how I built the UI, [this article](https://faisal.sh/posts/taming-complex-uis-with-state-machines-and-pure-views) goes into more detail.
 
 I hope you found this guide helpful.
