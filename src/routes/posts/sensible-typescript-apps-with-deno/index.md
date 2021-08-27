@@ -43,7 +43,7 @@ All modules must be locally installed and live next to your source code to devel
 
 ![Richard Feldman showing how insecure is npm install command is](https://res.cloudinary.com/fghurayri/image/upload/v1630101562/faisal.sh/sensible-typescript-with-deno/npm-install.png)
 
-Moreover, there’s a unique dilemma in Node JS around keeping your package.json up to date or not, especially when there is no process for vetting third-party dependencies.
+Moreover, there’s a unique dilemma in Node JS around keeping `package.json` up to date or not, especially when there is no process for vetting third-party dependencies.
 
 On one hand, you want to keep your software updated to get the latest features, bug fixes, and security patches.
 
@@ -51,9 +51,9 @@ On the other hand, thanks to the natural complexity in software development and 
 
 ### How is Deno Different than Node in those two points?
 
-Ryan Dahl built Deno with security in mind. For example, by default, any third-party script will run without access to the file system or the network unless the user gives permission, vastly minimizing the attack vector.
+Ryan Dahl built Deno with security in mind. For example, by default, third-party scripts will run without access to the file system or the network unless the user gives permission, vastly minimizing the attack vector.
 
-Moreover, installing dependencies is as simple as pasting the URL of the library at the start of your file. A cached version will be saved into your machine and never updated unless the user specifically asks for it.
+Moreover, installing dependencies is as simple as pasting the URL of the library at the start of the file. A cached version will be saved into the machine and never updated unless the user specifically asks for it.
 
 ### Extra Nice Things in Deno
 
