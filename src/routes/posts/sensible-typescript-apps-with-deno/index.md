@@ -1,6 +1,6 @@
 ---
 title: "Sensible JavaScript/TypeScript Apps With Deno"
-date: "2021-08-28"
+date: "2021-08-27"
 slug: "sensible-typescript-apps-with-deno"
 metaDesc: "Some thoughts about Deno and why I think it is the sensible long-term option when developing apps with TypeScript"
 cover: "https://res.cloudinary.com/fghurayri/image/upload/v1630084037/faisal.sh/sensible-typescript-with-deno/deno-logo.png"
