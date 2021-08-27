@@ -65,7 +65,7 @@ TypeScript is a fantastic language to make working with JavaScript saner. It is 
 
 ![Deno on MDN](https://res.cloudinary.com/fghurayri/image/upload/v1630103792/faisal.sh/sensible-typescript-with-deno/mdn.png)
 
-Moreover, one of the principles of Deno, since it started, is to follow web APIs whenever there's an overlap. So, for example, you can use `window.localStorage` in your server, like [documented](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage) in MDN!
+Moreover, one of the principles of Deno, since it started, is to follow web APIs whenever there's an overlap. So, for example, you can use `window.localStorage` in your server, like [documented](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage) in MDN! [Here is a post](https://deno.com/blog/deno-on-mdn) from the Deno team expanding on why that is important.
 
 Here is a [great video by Surma](https://www.youtube.com/watch?v=SYkzk_j3yb0) published a couple of days ago showcasing Deno.
 
