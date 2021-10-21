@@ -6,6 +6,30 @@
   <link>https://faisal.sh</link>
   <description>Portfolio web app for Faisal Alghurayri to share his experience and sample work.</description>
   <item>
+  <guid>https://faisal.sh/posts/how-to-build-calendar-scheduling-based-feature</guid>
+  <title>How to Build a Calendar (and Scheduling) Based Feature</title>
+  <link>https://faisal.sh/posts/how-to-build-calendar-scheduling-based-feature</link>
+  <description>I explain the primitives of working with calendar and scheduling features by psuedo building a previous system I've worked on.</description>
+  <pubDate>Wed, 20 Oct 2021 00:00:00 GMT</pubDate>
+  </item><item>
+  <guid>https://faisal.sh/posts/improve-coverage-and-testability-by-using-test-doubles</guid>
+  <title>Improve Coverage & Testability by using Test Doubles</title>
+  <link>https://faisal.sh/posts/improve-coverage-and-testability-by-using-test-doubles</link>
+  <description>I share some personal anecdotes around testability and coverage in software engineering.</description>
+  <pubDate>Fri, 17 Sep 2021 00:00:00 GMT</pubDate>
+  </item><item>
+  <guid>https://faisal.sh/posts/sensible-ts-apps-with-deno</guid>
+  <title>Sensible JavaScript/TypeScript Apps With Deno</title>
+  <link>https://faisal.sh/posts/sensible-ts-apps-with-deno</link>
+  <description>Some thoughts about Deno and why I think it is the sensible long-term option when developing apps with TypeScript</description>
+  <pubDate>Fri, 27 Aug 2021 00:00:00 GMT</pubDate>
+  </item><item>
+  <guid>https://faisal.sh/posts/taming-complex-uis-with-state-machines-and-pure-views</guid>
+  <title>Taming Complex UIs with State Machines and Pure Views</title>
+  <link>https://faisal.sh/posts/taming-complex-uis-with-state-machines-and-pure-views</link>
+  <description>I introduce state machines and their benefits by showing how to manage a complex interactive map UI.</description>
+  <pubDate>Fri, 20 Aug 2021 00:00:00 GMT</pubDate>
+  </item><item>
   <guid>https://faisal.sh/posts/how-to-build-geospatial-apps</guid>
   <title>How to Build Geospatial Apps</title>
   <link>https://faisal.sh/posts/how-to-build-geospatial-apps</link>
