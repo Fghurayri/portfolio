@@ -18,7 +18,7 @@ In one of the previous projects I have worked on, there has been a requirement t
 
 The requirements were:
 
-- A customer can schedule a delivery slot five ahead.
+- A customer can schedule a delivery slot five days ahead.
 - The delivery schedule is every day of the week, starting from 8:00 am till midnight. Friday is from 2:00 pm till 10:00 pm.
 - Each delivery slot is a 30-minutes window.
 
