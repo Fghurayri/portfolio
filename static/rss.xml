@@ -6,6 +6,18 @@
   <link>https://faisal.sh</link>
   <description>Portfolio web app for Faisal Alghurayri to share his experience and sample work.</description>
   <item>
+  <guid>https://faisal.sh/posts/functional-reactive-programming-with-elixir-and-svelte</guid>
+  <title>Functional Reactive Programming with Elixir and Svelte</title>
+  <link>https://faisal.sh/posts/functional-reactive-programming-with-elixir-and-svelte</link>
+  <description></description>
+  <pubDate>Mon, 01 Nov 2021 04:00:00 GMT</pubDate>
+  </item><item>
+  <guid>https://faisal.sh/posts/localhost-access-denied-monterey</guid>
+  <title>How to Solve Port 5000 Denied on Mac OS Monterey</title>
+  <link>https://faisal.sh/posts/localhost-access-denied-monterey</link>
+  <description>I share how to debug local networking issues by showing how to solve being denied from port 5000 after upgrading to Mac OS Monterey.</description>
+  <pubDate>Fri, 29 Oct 2021 00:00:00 GMT</pubDate>
+  </item><item>
   <guid>https://faisal.sh/posts/how-to-build-calendar-scheduling-based-feature</guid>
   <title>How to Build a Calendar (and Scheduling) Based Feature</title>
   <link>https://faisal.sh/posts/how-to-build-calendar-scheduling-based-feature</link>
