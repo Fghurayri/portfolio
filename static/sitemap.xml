@@ -5,7 +5,7 @@
       </url>
     
       <url>
-        <loc>https://faisal.sh/posts/functional-reactive-programming-with-elixir-and-svelte</loc>
+        <loc>https://faisal.sh/posts/why-elixir-is-cool-and-practical-language</loc>
       </url>
       
       <url>
@@ -62,6 +62,14 @@
       
       <url>
         <loc>https://faisal.sh/posts/build-desktop-apps-with-tauri</loc>
+      </url>
+      
+      <url>
+        <loc>https://faisal.sh/posts/below-elixir-language-iceberg</loc>
+      </url>
+      
+      <url>
+        <loc>https://faisal.sh/posts/using-elixir-svelte-dart-to-build-location-tracker</loc>
       </url>
         
   </urlset>

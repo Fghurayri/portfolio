@@ -6,11 +6,11 @@
   <link>https://faisal.sh</link>
   <description>Portfolio web app for Faisal Alghurayri to share his experience and sample work.</description>
   <item>
-  <guid>https://faisal.sh/posts/functional-reactive-programming-with-elixir-and-svelte</guid>
-  <title>Functional Reactive Programming with Elixir and Svelte</title>
-  <link>https://faisal.sh/posts/functional-reactive-programming-with-elixir-and-svelte</link>
-  <description></description>
-  <pubDate>Mon, 01 Nov 2021 04:00:00 GMT</pubDate>
+  <guid>https://faisal.sh/posts/why-elixir-is-cool-and-practical-language</guid>
+  <title>Why Elixir is a Cool and Practical Langauge</title>
+  <link>https://faisal.sh/posts/why-elixir-is-cool-and-practical-language</link>
+  <description>elixir</description>
+  <pubDate>Tue, 30 Nov 2021 00:00:00 GMT</pubDate>
   </item><item>
   <guid>https://faisal.sh/posts/localhost-access-denied-monterey</guid>
   <title>How to Solve Port 5000 Denied on Mac OS Monterey</title>
@@ -95,6 +95,18 @@
   <link>https://faisal.sh/posts/build-desktop-apps-with-tauri</link>
   <description>Tauri vs Electron for building desktop apps.</description>
   <pubDate>Mon, 19 Jul 2021 00:00:00 GMT</pubDate>
+  </item><item>
+  <guid>https://faisal.sh/posts/below-elixir-language-iceberg</guid>
+  <title>Below The Elixir Language Iceberg</title>
+  <link>https://faisal.sh/posts/below-elixir-language-iceberg</link>
+  <description>I share what I think is special about Elixir language in the context of building scalable systems.</description>
+  <pubDate>Sat, 14 Nov 2020 00:00:00 GMT</pubDate>
+  </item><item>
+  <guid>https://faisal.sh/posts/using-elixir-svelte-dart-to-build-location-tracker</guid>
+  <title>Using Elixir, Svelte, and Dart to Build a Location Tracker</title>
+  <link>https://faisal.sh/posts/using-elixir-svelte-dart-to-build-location-tracker</link>
+  <description></description>
+  <pubDate>Sat, 14 Nov 2020 00:00:00 GMT</pubDate>
   </item>
   </channel>
   </rss>
