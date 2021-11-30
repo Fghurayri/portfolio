@@ -306,7 +306,7 @@ I can run the `:observer` and see the glorious supervision tree for the whole ap
 
 Phoenix is extremely fast and efficient. Many engineering teams reported dramatically lower bills thanks to migrating from a Ruby on Rails stack to Phoenix. In 2015, [the Phoenix team shared](https://phoenixframework.org/blog/the-road-to-2-million-websocket-connections) their experiment about having 2,000,000 live websocket connections in a single beefy machine.
 
-I have deployed the Omw project on a free 256MB VM in [fly.io](fly.io) with a 120MB baseline memory usage. The application is snappy, and I see requests served in microseconds.
+I have deployed the Omw project on a free 256MB VM in [fly.io](https://fly.io) with a 120MB baseline memory usage. The application is snappy, and I see requests served in microseconds.
 
 ## Conclusion
 
