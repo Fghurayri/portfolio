@@ -5,6 +5,14 @@
       </url>
     
       <url>
+        <loc>https://faisal.sh/posts/following-the-actor-model-with-xstate-and-elixir</loc>
+      </url>
+      
+      <url>
+        <loc>https://faisal.sh/posts/learning-remix-by-building-gratitude-journal</loc>
+      </url>
+      
+      <url>
         <loc>https://faisal.sh/posts/why-elixir-is-cool-and-practical-language</loc>
       </url>
       
@@ -62,10 +70,6 @@
       
       <url>
         <loc>https://faisal.sh/posts/build-desktop-apps-with-tauri</loc>
-      </url>
-      
-      <url>
-        <loc>https://faisal.sh/posts/below-elixir-language-iceberg</loc>
       </url>
       
       <url>

@@ -6,6 +6,18 @@
   <link>https://faisal.sh</link>
   <description>Portfolio web app for Faisal Alghurayri to share his experience and sample work.</description>
   <item>
+  <guid>https://faisal.sh/posts/following-the-actor-model-with-xstate-and-elixir</guid>
+  <title>Following The Actor Model with XState and Elixir</title>
+  <link>https://faisal.sh/posts/following-the-actor-model-with-xstate-and-elixir</link>
+  <description>I share a few ideas on following the actor model using XState and Elixir by walking through my recent project.</description>
+  <pubDate>Sat, 18 Dec 2021 00:00:00 GMT</pubDate>
+  </item><item>
+  <guid>https://faisal.sh/posts/learning-remix-by-building-gratitude-journal</guid>
+  <title>Learning Remix by Building a Gratitude Journal</title>
+  <link>https://faisal.sh/posts/learning-remix-by-building-gratitude-journal</link>
+  <description>I explain how to use Remix by building a simple gratitude journal.</description>
+  <pubDate>Sat, 18 Dec 2021 00:00:00 GMT</pubDate>
+  </item><item>
   <guid>https://faisal.sh/posts/why-elixir-is-cool-and-practical-language</guid>
   <title>Why Elixir is a Cool and Practical Langauge</title>
   <link>https://faisal.sh/posts/why-elixir-is-cool-and-practical-language</link>
@@ -95,12 +107,6 @@
   <link>https://faisal.sh/posts/build-desktop-apps-with-tauri</link>
   <description>Tauri vs Electron for building desktop apps.</description>
   <pubDate>Mon, 19 Jul 2021 00:00:00 GMT</pubDate>
-  </item><item>
-  <guid>https://faisal.sh/posts/below-elixir-language-iceberg</guid>
-  <title>Below The Elixir Language Iceberg</title>
-  <link>https://faisal.sh/posts/below-elixir-language-iceberg</link>
-  <description>I share what I think is special about Elixir language in the context of building scalable systems.</description>
-  <pubDate>Sat, 14 Nov 2020 00:00:00 GMT</pubDate>
   </item><item>
   <guid>https://faisal.sh/posts/using-elixir-svelte-dart-to-build-location-tracker</guid>
   <title>Using Elixir, Svelte, and Dart to Build a Location Tracker</title>
