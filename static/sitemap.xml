@@ -5,11 +5,11 @@
       </url>
     
       <url>
-        <loc>https://faisal.sh/posts/following-the-actor-model-with-xstate-and-elixir</loc>
+        <loc>https://faisal.sh/posts/learning-remix-by-building-gratitude-journal</loc>
       </url>
       
       <url>
-        <loc>https://faisal.sh/posts/learning-remix-by-building-gratitude-journal</loc>
+        <loc>https://faisal.sh/posts/following-the-actor-model-with-xstate-and-elixir</loc>
       </url>
       
       <url>
@@ -70,10 +70,6 @@
       
       <url>
         <loc>https://faisal.sh/posts/build-desktop-apps-with-tauri</loc>
-      </url>
-      
-      <url>
-        <loc>https://faisal.sh/posts/using-elixir-svelte-dart-to-build-location-tracker</loc>
       </url>
         
   </urlset>
