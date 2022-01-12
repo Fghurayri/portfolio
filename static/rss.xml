@@ -6,6 +6,12 @@
   <link>https://faisal.sh</link>
   <description>Portfolio web app for Faisal Alghurayri to share his experience and sample work.</description>
   <item>
+  <guid>https://faisal.sh/posts/my-first-week-learning-go</guid>
+  <title>My First Week Learning Go</title>
+  <link>https://faisal.sh/posts/my-first-week-learning-go</link>
+  <description>I share my initial experience and what I have learned after completing a couple of Go courses.</description>
+  <pubDate>Wed, 12 Jan 2022 00:00:00 GMT</pubDate>
+  </item><item>
   <guid>https://faisal.sh/posts/learning-remix-by-building-gratitude-journal</guid>
   <title>Learning Remix by Building a Gratitude Journal</title>
   <link>https://faisal.sh/posts/learning-remix-by-building-gratitude-journal</link>
