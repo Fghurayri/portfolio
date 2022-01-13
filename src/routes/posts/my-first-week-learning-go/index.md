@@ -24,6 +24,7 @@ Go is an enjoyable and simple language. I used the following resources:
 - Understanding pointers in Go specifically. It has some nice diagrams and animations to make the concept more approachable. [video](https://www.youtube.com/watch?v=sTFJtxJXkaY)
 - Rob Pikes's post explains arrays and slices. It explains how to approach mutations, which indirectly covers pointers. [article](https://go.dev/blog/slices)
 - Dissecting pointers in Go by doing all the possible permutations of dereferencing and referencing. [article](https://medium.com/analytics-vidhya/pointers-in-golang-1a679b464849)
+- Understanding concurrency in Go using goroutines and channels. [video](https://www.youtube.com/watch?v=yNOe3STbtGE)
 
 ## Why am I Learning Go?
 
@@ -508,6 +509,8 @@ for msg := range c {
 Once the channel is closed, this loop will terminate.
 
 I think there's more to cover for goroutines and concurrent programming in Go. However, this may be too early to think about in my Go journey, and I will explore this area in the future.
+
+For now, I will leave you with this excellent [video](https://www.youtube.com/watch?v=yNOe3STbtGE) that covers concurrency in Go using goroutines and channels.
 
 ### Other Notable Mentions
 
