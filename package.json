@@ -10,7 +10,7 @@
     "gen:seo-artifacts": "node ./scripts/generate-seo-artifacts.js"
   },
   "devDependencies": {
-    "@sveltejs/adapter-auto": "next",
+    "@sveltejs/adapter-vercel": "next",
     "@sveltejs/kit": "next",
     "autoprefixer": "^10.4.2",
     "remark-slug": "^7.0.1",
